@@ -1,3 +1,7 @@
+## Building ATOM AI
+  - Platform
+  - Data Engine
+  - Data Center
 - Hi, I’m Josh Bauer Muranga 😃
 - I’m a Machine Learning Engineer/Data Scientist and UAS Engineer 🛸 🚁
 - I love working on the intelligent software modules of mobile robot systems 🤖
