@@ -2,6 +2,13 @@
     - Platform
     - Data Engine
     - Data Center
+## Building HISIA Space & Robotics
+    - Analytics
+    - Intelligence
+    - Robotics
+    - Sattelites
+
+    
 
 ## Intro
 👋🏽 Hi, I’m Josh Bauer Muranga
